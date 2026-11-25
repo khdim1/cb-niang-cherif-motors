@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: cb-niang-cherif-motors
+    runtime: static
+    staticPublishPath: .
